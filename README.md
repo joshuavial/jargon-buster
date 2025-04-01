@@ -1,5 +1,3 @@
----
-
 # Jargon Buster
 
 ## Installation
@@ -59,8 +57,6 @@ This repository contains several branches, each with a specific bug for you to f
     git push origin <challenge-name>
     ```
 10. **Repeat:** To try another challenge, switch back to your main branch (`git checkout main`), and repeat from step 6 with a different `<challenge-name>`.
-
----
 
 ### Challenge Clues
 
